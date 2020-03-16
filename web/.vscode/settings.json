@@ -1,0 +1,13 @@
+{
+  "liveSassCompile.settings.includeItems": [
+    "/themes/apfoundation/scss/apfoundation.scss"
+  ],
+
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/themes/apfoundation/css"
+    }
+  ]
+}
